@@ -1,6 +1,6 @@
 spring:
  application:
-     name: rating-service-dev
+     name: rating-service
 
 eureka:
  client:
